@@ -1,0 +1,12 @@
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\bin\Debug\WinMLTool2.exe.config
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\bin\Debug\WinMLTool2.exe
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\bin\Debug\WinMLTool2.pdb
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\obj\Debug\WinMLTool2.csprojResolveAssemblyReference.cache
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\obj\Debug\WinMLTool2.Form1.resources
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\obj\Debug\WinMLTool2.Properties.Resources.resources
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\obj\Debug\WinMLTool2.csproj.GenerateResource.Cache
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\obj\Debug\WinMLTool2.exe
+c:\users\h103717\documents\visual studio 2015\Projects\WinMLTool2\WinMLTool2\obj\Debug\WinMLTool2.pdb
+C:\Users\h103717\Documents\Visual Studio 2015\Projects\WinMLTool2\WinMLTool2\bin\Debug\nwitsml.dll
+C:\Users\h103717\Documents\Visual Studio 2015\Projects\WinMLTool2\WinMLTool2\bin\Debug\nwitsml.pdb
+C:\Users\h103717\Documents\Visual Studio 2015\Projects\WinMLTool2\WinMLTool2\obj\Debug\WinMLTool2.AboutBox.resources
